@@ -1,2 +1,4 @@
 file_Three_dot_txt
 world
+This is file 3.
+hello
